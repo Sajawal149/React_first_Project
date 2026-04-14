@@ -30,7 +30,7 @@ function navbar () {
 export default function App () {
   return (
     <div>
-    <navbar></navbar>
+      <navbar />
       {/* <h1>This is a Heading</h1>
       <Btn></Btn> */}
     </div>
