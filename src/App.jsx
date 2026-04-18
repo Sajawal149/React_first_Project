@@ -24,9 +24,7 @@ function navbar () {
     </nav>
   );
 }
-
-
-
+//this the code for rendring the components
 export default function App () {
   return (
     <div>
