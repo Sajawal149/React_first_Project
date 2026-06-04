@@ -15,7 +15,8 @@ function navbar () {
 
       <div style={styles.links}>
         <li>Home</li>
-        <li>About</li>
+        <li>HOME</li>
+        <li>ABOUT</li>
         <li>Services</li>
         <li>Contact</li>
       </div>
