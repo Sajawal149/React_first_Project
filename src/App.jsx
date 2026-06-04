@@ -17,8 +17,8 @@ function navbar () {
         <li>Home</li>
         <li>HOME</li>
         <li>ABOUT</li>
-        <li>Services</li>
-        <li>Contact</li>
+        <li>SERVICES</li>
+        <li>CONTACT</li>
       </div>
 
       <button style={styles.button}>Login</button>
