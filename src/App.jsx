@@ -30,8 +30,8 @@ export default function App () {
   return (
     <div>
       <navbar />
-      /* { <h1>This is a Heading</h1>
-      <Btn></Btn> }  */
+      {/* <h1>This is a Heading</h1>
+      <Btn></Btn> */ } 
     </div>
   );
 }
