@@ -25,11 +25,11 @@ function navbar () {
     </nav>
   );
 }
-//this the code for rendring the components
+//this is the code for rendering the components
 export default function App () {
   return (
     <div>
-      <navbar />
+      <navbar/>
       {/* <h1>This is a Heading</h1>
       <Btn></Btn> */ } 
     </div>
